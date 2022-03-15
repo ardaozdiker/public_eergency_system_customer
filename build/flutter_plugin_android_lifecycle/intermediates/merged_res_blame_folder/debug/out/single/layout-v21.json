@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\VS code projeler\\flutter\\public_eergency_system_customer\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\ardao\\.gradle\\caches\\transforms-2\\files-2.1\\875654acb8fd75501dc33efa1bebb479\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\VS code projeler\\flutter\\public_eergency_system_customer\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ardao\\.gradle\\caches\\transforms-2\\files-2.1\\875654acb8fd75501dc33efa1bebb479\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\VS code projeler\\flutter\\public_eergency_system_customer\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\ardao\\.gradle\\caches\\transforms-2\\files-2.1\\875654acb8fd75501dc33efa1bebb479\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\VS code projeler\\flutter\\public_eergency_system_customer\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ardao\\.gradle\\caches\\transforms-2\\files-2.1\\875654acb8fd75501dc33efa1bebb479\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

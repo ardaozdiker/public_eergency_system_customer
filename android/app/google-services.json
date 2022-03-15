@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899191751108",
+    "project_id": "public-emergency-system-deneme",
+    "storage_bucket": "public-emergency-system-deneme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899191751108:android:96e775d99ed901571c2491",
+        "android_client_info": {
+          "package_name": "com.example.public_eergency_system_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899191751108-snvavu3c48og6ua3k13pkbo7kjl3b2ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwE0Vd1aWJnFgP0fMF5gF1WArIAN_MuIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899191751108-snvavu3c48og6ua3k13pkbo7kjl3b2ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
